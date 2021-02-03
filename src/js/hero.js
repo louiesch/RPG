@@ -3,6 +3,7 @@ export class Hero {
     this.name = name;
     this.strength = strength;
     this.health = health;
+    this.magic = magic
   }
 };
 
