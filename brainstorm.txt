@@ -1,0 +1,6 @@
+Character attributes: strength (how hard ya hit), dexterity, constitution (your health points), intelligence, wisdom, charisma
+
+Character creator/chooser
+
+Fighter: High strength, health, low magic
+Wizard: Low stregth, average health, high magic
